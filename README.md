@@ -29,7 +29,7 @@ An interactive web application that lets you test prompts across multiple AI mod
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/prompt-playground.git
+git clone https://github.com/faysal492/prompt-playground.git
 cd prompt-playground
 ```
 
